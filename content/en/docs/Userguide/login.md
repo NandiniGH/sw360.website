@@ -3,7 +3,7 @@ linkTitle: "Login"
 title: "Login"
 ---
 
-You need a username and a password to access the software. After reaching the SW360 site you will be in the public area of your account. Liferay distinguishes between public and private area, where the private area is protected by login.
+You need a **username** and a **password** to access the software. After reaching the SW360 site you will be in the public area of your account. Liferay distinguishes between public and private area, where the private area is protected by login.
 
 You will see a "Welcome to SW360!" homepage which is a public area with **Sign In** and **Create Account** buttons.
 The Sign In button will redirect to the private area in order to work with the portal.
